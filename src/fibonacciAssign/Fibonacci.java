@@ -43,7 +43,7 @@ public class Fibonacci {
 		answer = DynFibonacci(number);
 		speed = System.nanoTime() - time;
 		
-		System.out.println("Iterative fibonacci the answer " + answer + " in: " + speed + "ns");
+		System.out.println("Iterative fibonacci found the answer " + answer + " in: " + speed + "ns");
 		
 		
 		
