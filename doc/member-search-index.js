@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fibonacciAssign","c":"Fibonacci","l":"DynFibonacci(long)"},{"p":"fibonacciAssign","c":"Fibonacci","l":"Fibonacci()","u":"%3Cinit%3E()"},{"p":"fibonacciAssign","c":"Fibonacci","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"fibonacciAssign","c":"Fibonacci","l":"RecFibonacci(long)"}];updateSearchResults();
